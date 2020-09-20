@@ -1,3 +1,5 @@
-veritabanı bin/debug içerisinde bulunmakta kullandığım görsel temalarsa ana klasördedir.
+bin/debug contains the DataBase File
 Tugan Atila
 191180012
+Gazi University
+Computer Programming
