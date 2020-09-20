@@ -1,0 +1,14 @@
+C:\Users\Tugan\source\repos\coron\bin\Debug\coron.exe.config
+C:\Users\Tugan\source\repos\coron\bin\Debug\coron.exe
+C:\Users\Tugan\source\repos\coron\bin\Debug\coron.pdb
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.csprojAssemblyReference.cache
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form1.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Properties.Resources.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.csproj.GenerateResource.cache
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.exe
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.pdb
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form2.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form3.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form4.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form5.resources
+C:\Users\Tugan\source\repos\coron\obj\Debug\coron.Form6.resources

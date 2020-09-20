@@ -1,0 +1,8 @@
+1-en son kaç gün önce dışarı çıktınız? +28
+2-Kronik bir hastalığınız var mı? +12
+3-Yaşınız?              18 altı    +13                     18-20      +7                          65üstü +13
+4-Akciğer problemleri, Ateş ve Kusma arsından herhangi birini yada birkaçını aynı anda yaşıyormusunuz? +7
+5-Corona hastalığına daha önce yakalandınız mı ? !+13
+6-Corona teşhisi konulmuş biri ile 14 gün içinde hiç yakın temsata bulundunuz mu? +27
+
+max 100

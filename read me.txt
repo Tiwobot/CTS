@@ -1,0 +1,3 @@
+veritabanı bin/debug içerisinde bulunmakta kullandığım görsel temalarsa ana klasördedir.
+Tugan Atila
+191180012
